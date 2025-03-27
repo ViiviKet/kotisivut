@@ -1,0 +1,23 @@
+body {
+    background-color: wheat;
+}
+h1 {
+    color: olive;
+    font-family: Arial;
+    font-size: 40px;
+}
+h2 {
+    color: olive;
+    font-family: Arial;
+    font-size: 20px;
+}
+h3 {
+    color: olive;
+    font-family: Arial;
+    font-size: 15px;
+}
+p, li, a {
+    color: coral;
+    font-family: Arial;
+    font-size: 15px;
+}
